@@ -13,10 +13,11 @@
         android:layout_height="match_parent"
         android:id="@+id/gridViewId"
         android:numColumns="3"
-        android:listSelector="#62caaf"
+        android:listSelector="#B31919"
         android:horizontalSpacing="10dp"
         android:verticalSpacing="10dp"
         />
+
 
 
 
